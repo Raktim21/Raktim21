@@ -2,6 +2,7 @@
 🔭 I’m currently working on Selopia<br>👯 I’m looking to collaborate on Emerging business<br>🌱 I’m currently learning Vue js and flutter<br>⚡ Fun fact: Quick learner 
 
 
+<a href="https://app.daily.dev/shariarraktim"><img src="https://api.daily.dev/devcards/fa04e6698160450fad0d5475b189992b.png?r=0ro" width="400" alt="Shariar Raktim's Dev Card"/></a>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shariar.raktim.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shariar-raktim-web-dev) 
 
